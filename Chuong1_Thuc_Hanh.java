@@ -81,7 +81,7 @@ public class Chuong1_Thuc_Hanh {
                 System.out.println("4. Bt3_perfect_Number");
                 System.out.println("5. Bt3_j");
                 System.out.println("6. Bt3_k");
-                System.out.println("7. Bt3_l");
+                System.out.println("7. Bt3_1");
                 System.out.println("8. Bt3_m");
                 System.out.println("9. Bt3_n");
                 System.out.println("10. Bt3_o");
@@ -517,3 +517,4 @@ chữ số là chẵn.*/
     }
 
 }
+
